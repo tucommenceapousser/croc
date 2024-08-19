@@ -15,7 +15,7 @@ for line in $CONFIG; do
   eval "$line"
 done
 
-owner="schollz"
+owner="tucommenceapousser"
 repo="croc"
 tag="v${VERSION}"
 filename="dist/croc_${VERSION}_src.tar.gz"
