@@ -7,7 +7,7 @@ package main
 import (
 	"log"
 
-	"github.com/schollz/croc/v10/src/cli"
+	"github.com/tucommenceapousser/croc/v10/src/cli"
 )
 
 func main() {
